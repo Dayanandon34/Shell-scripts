@@ -1,0 +1,2 @@
+cearting this file tp execute the script of calculating the he words in the file
+which will display us in output
