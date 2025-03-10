@@ -1,7 +1,9 @@
-#!/bin/bash
+#!/bin/bash 
 
-if [ -f "file.txt" ]; then
-	mv file.txt backup/
+# This script performes the file moving to another folder
+
+if [ -f "file.txt" ]; then # Syntex for move the file
+	mv file.txt backup/ # Destination of mv file
 	echo "File successfully moved"
 else
 	echo "FIle doesn't exist"
