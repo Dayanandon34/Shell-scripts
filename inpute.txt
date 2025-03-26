@@ -1,5 +1,5 @@
 Hi there!
 Dayanand This side,
 Hope you are doing well!!
-this script will read and echo the lines
+this script will read and echo the lines from the script availabe in repo
 thank you!
