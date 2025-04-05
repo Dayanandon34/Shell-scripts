@@ -9,4 +9,4 @@ if [ -f "$filename" ]; then # statement
 	else
 		    echo "File does not exist."
 fi
-#execute it shell and availalble file in directory to calculate the words
+#Execute it shell and availalble file in directory to calculate the words
